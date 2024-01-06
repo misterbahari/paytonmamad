@@ -6,12 +6,12 @@ if rainy == 1 and chatr == 1:
 else:
     print('naro')
 #######################################
-if 8 == 8:
-    pass
+#if 8 == 8:
+    #pass
 
 #######################################
-if 5 > 3:
-    print('salam')
-elif 9 > 5:
-    print('bye bye')
+#if 5 > 3:
+    #print('salam')
+#elif 9 > 5:
+    #print('bye bye')
 #######################################
